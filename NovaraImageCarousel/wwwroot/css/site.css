@@ -1,0 +1,22 @@
+
+.footer {
+    position: static !important;
+}
+
+.ux-carousel {
+    max-width: 1000px;
+}
+
+div.swiper-button-next::after {
+    content: "";
+}
+
+div.swiper-button-prev::after {
+    content: "";
+}
+
+.products-bar__item-text {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
